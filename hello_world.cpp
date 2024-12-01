@@ -1,11 +1,11 @@
 #incule <iostream>
-using namespace std;
+
 
 void main() {
 
-	cout << "Введите имя пользователя: ";
+	std::cout << "Введите имя пользователя: ";
 	string a;
-	cin >> a;
-	cout << "Hello world from " <<a;
+	std::cin >> a;
+	std::cout << "Hello world from " <<a;
 
 }
