@@ -1,6 +1,6 @@
 #incule <iostream>
 
-
+//lol2
 void main() {
 
 	cout << "Введите имя пользователя: ";
