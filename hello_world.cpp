@@ -3,9 +3,9 @@
 
 void main() {
 
-	std::cout << "Введите имя пользователя: ";
+	cout << "Введите имя пользователя: ";
 	string a;
-	std::cin >> a;
-	std::cout << "Hello world from " <<a;
+	cin >> a;
+	cout << "Hello world from " <<a;
 
 }
