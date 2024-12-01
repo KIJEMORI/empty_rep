@@ -1,5 +1,5 @@
 #incule <iostream>
-
+//lol
 void main() {
 
 	std::cout << "Введите имя пользователя: ";
